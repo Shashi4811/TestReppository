@@ -23,7 +23,9 @@ class StringPractise {
 		System.out.println(temp);
 		System.out.println("bnm,");
 		System.out.println("Learning git");
+
 		//Adding payment scenario from master
+
 		
 
 	}
