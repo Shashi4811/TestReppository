@@ -12,6 +12,7 @@ class StringPractise {
 		x=x+y;
 		y=x-y;
 		x=x-y;
+		//new line
 		System.out.println("After swappiing x & y are :"+ x+" "+y);*/
 		int num=12345;
 		int temp=0;
@@ -21,6 +22,8 @@ class StringPractise {
 		}
 		System.out.println(temp);
 		System.out.println("bnm,");
+		System.out.println("Learning git");
+		//Adding payment scenario from master
 		
 
 	}
